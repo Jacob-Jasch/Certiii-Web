@@ -1,0 +1,4 @@
+#info {background-color: navajowhite;display: flow-root; padding: 2%;}
+label {font-size: medium;}
+.concactTable, .concactTable td, th, tr {background-color: navajowhite; font-size: 14px; width: 400px; text-transform: none;}
+.concactTable {float: right;}

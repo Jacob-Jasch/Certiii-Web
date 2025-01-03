@@ -1,0 +1,20 @@
+* {font-size: 14px;}
+body { background-color: lightgray; font-family: 'Courier New';}
+#container {width: 1200px; border-color: white; border-style: solid; border-width: 4px; margin: auto; background-color: navajowhite;}
+a { display: inline-block;}
+nav {width: 1200px; padding-top: 20px; text-align: center; background-color: #46dfed;}
+header { height: 200px; width: 1200px; background-color: #46f08d;} 
+#logo {float: left;}
+#banner {width: 1000px; height: 200px; float: right; margin-left: -105px;}
+table, td, th, tr {border: 2px solid black; width: 1200px; border-collapse: collapse; text-align: center; background-color: #b946ee;
+font-weight: bold; text-transform: uppercase; font-family: Verdana; font-size: 16px; padding: 5px;}
+footer {background-color: rgb(14, 238, 178);}
+#icons {display: block; text-align: center;}
+h1 {text-transform: uppercase; font-family: Verdana; font-size: 18px;font-weight: bold; text-align: center; position: relative; bottom: 50%;
+color: cornflowerblue; font-family: 'Lucida Handwriting'; font-size: 70px;}
+p { width: 400px; text-align: left; padding: 2%;}
+h3, h2 {text-transform: uppercase; font-family: Verdana; font-size: 18px;font-weight: bold; width: 400px; text-align: center;}
+#paragraph {background-color: navajowhite;display: flow-root;}
+#headerText {text-transform: uppercase; font-family: Verdana; font-size: 18px;font-weight: bold; text-align: center; position: relative; bottom: 74%; left: 30%;
+color: cornflowerblue; font-family: 'Lucida Handwriting'; font-size: 70px;}
+#map {float: right;}
